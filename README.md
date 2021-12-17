@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=random&height=300&section=header&text=최예림의%20GitHub&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=wave&color=F9DC3E&height=300&section=header&text=최예림의%20GitHub&fontSize=50)
 
 
 
